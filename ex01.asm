@@ -1,7 +1,7 @@
 [org 0x0100]
 jmp start
-multiplicend: dd 1300
-multiplier: dw 500
+multiplicend: dd 1233
+multiplier: dw 222
 result: dd 0
 start: 
 mov cl, 16
